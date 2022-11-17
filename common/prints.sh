@@ -8,7 +8,7 @@ PRINTSV=137
 PRINTSTRANSF=520
 
 # Certified fingerprints
-# Current fingerprints count=745
+# Current fingerprints count=746
 # Unique devices=501
 
 PRINTSLIST="
@@ -63,7 +63,7 @@ Google Pixel 4 (10 & 11 & 12):Google:Pixel 4=google/flame/flame:10/QQ3A.200805.0
 Google Pixel 4 XL (10 & 11 & 12):Google:Pixel 4 XL=google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05;google/coral/coral:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/coral/coral:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
 Google Pixel 4a (10 & 11 & 12):Google:Pixel 4a=google/sunfish/sunfish:10/QD4A.200805.003/6598198:user/release-keys__2020-08-05;google/sunfish/sunfish:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/sunfish/sunfish:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
 Google Pixel 4a 5G (11 & 12):Google:Pixel 4a (5G)=google/bramble/bramble:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/bramble/bramble:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
-Google Pixel 5 (11 & 12):Google:Pixel 5=google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/redfin/redfin:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 5 (11 & 12):Google:Pixel 5=google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys__2021-05-05;google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/redfin/redfin:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
 Google Pixel 5a (11 & 12):Google:Pixel 5a=google/barbet/barbet:11/RD2A.211001.002/7644766:user/release-keys__2021-10-01;google/barbet/barbet:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
 Google Pixel 6 (12):Google:Pixel 6=google/oriole/oriole:12/SD1A.210817.015.A4/7697517:user/release-keys__2021-10-05
 Google Pixel 6 Pro (12):Google:Pixel 6 Pro=google/raven/raven:12/SD1A.210817.015.A4/7697517:user/release-keys__2021-10-05
