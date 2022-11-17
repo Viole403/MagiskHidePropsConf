@@ -8,8 +8,8 @@ PRINTSV=137
 PRINTSTRANSF=520
 
 # Certified fingerprints
-# Current fingerprints count=749
-# Unique devices=502
+# Current fingerprints count=750
+# Unique devices=503
 
 PRINTSLIST="
 Asus ROG Phone 3 ZS661KS (10):Asus:ZS661KS=asus/WW_I003D/ASUS_I003_1:10/QKQ1.200419.002/17.0823.2012.122-0:user/release-keys__2020-12-01
@@ -228,6 +228,7 @@ OnePlus 9 Pro LE2125 (11 & 12):OnePlus:LE2125=OnePlus/OnePlus9Pro/OnePlus9Pro:11
 OnePlus 9 Pro TMO LE2127 (11):OnePlus:LE2127=OnePlus/OnePlus9ProTMO/OnePlus9ProTMO:11/RKQ1.201105.002/2104091024:user/release-keys__2021-04-01
 OnePlus 9R India LE2101 (11):OnePlus:LE2101=OnePlus/OnePlus9R_IND/OnePlus9R:11/RKQ1.201112.002/2109081911:user/release-keys__2021-09-01
 OnePlus 9RT China MT2110 (11):OnePlus:MT2110=OnePlus/MT2110_CH/OP5154L1:11/RKQ1.210614.002/1635776772321:user/release-keys__2021-09-05
+OnePlus 9RT India MT2111 (11):OnePlus:MT2111=OnePlus/MT2111_IND/OP5155L1:11/RKQ1.210614.002/1652622201727:user/release-keys__2022_04_05
 OnePlus N10 5G Global BE2026 (10 & 11):OnePlus:BE2026=OnePlus/OnePlusN10/OnePlusN10:10/QKQ1.200830.002/2104271142:user/release-keys__2021-05-05;OnePlus/OnePlusN10/OnePlusN10:11/RKQ1.201217.002/2109301843:user/release-keys__2021-10-01
 OnePlus N10 5G Europe BE2029 (10 & 11):OnePlus:BE2029=OnePlus/OnePlusN10_EEA/OnePlusN10:10/QKQ1.200830.002/2104240528:user/release-keys__2021-05-05;OnePlus/OnePlusN10_EEA/OnePlusN10:11/RKQ1.201217.002/2109301839:user/release-keys__2021-10-01
 OnePlus N10 5G Metro BE2025 (10 & 11):OnePlus:BE2025=OnePlus/OnePlusN10METRO/OnePlusN10METRO:10/QKQ1.200830.002/2012181933:user/release-keys__2020-12-05;OnePlus/OnePlusN10METRO/OnePlusN10METRO:11/RKQ1.201217.002/2108030048:user/release-keys__2021-08-01
