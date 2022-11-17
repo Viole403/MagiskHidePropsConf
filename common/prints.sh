@@ -8,7 +8,7 @@ PRINTSV=137
 PRINTSTRANSF=520
 
 # Certified fingerprints
-# Current fingerprints count=744
+# Current fingerprints count=745
 # Unique devices=501
 
 PRINTSLIST="
@@ -57,7 +57,7 @@ Google Pixel 2 (8.0.0 & 8.1.0 & 9 & 10 & 11):Google:Pixel 2=google/walleye/walle
 Google Pixel 2 XL (8.0.0 & 8.1.0 & 9 & 10 & 11):Google:Pixel 2 XL=google/taimen/taimen:8.0.0/OPD1.170816.025/4424668:user/release-keys;google/taimen/taimen:8.1.0/OPM2.171026.006.H1/4833802:user/release-keys__2018-07-05;google/taimen/taimen:9/PQ3A.190801.002/5670241:user/release-keys__2019-08-01;google/taimen/taimen:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05;google/taimen/taimen:11/RP1A.201005.004.A1/6934943:user/release-keys__2020-10-05
 Google Pixel 3 (9 & 10 & 11 & 12):Google:Pixel 3=google/blueline/blueline:9/PQ3A.190801.002/5670241:user/release-keys__2019-08-01;google/blueline/blueline:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05;google/blueline/blueline:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/blueline/blueline:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
 Google Pixel 3 XL (9 & 10 & 11 & 12):Google:Pixel 3 XL=google/crosshatch/crosshatch:9/PQ3A.190801.002/5670241:user/release-keys__2019-08-01;google/crosshatch/crosshatch:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05;google/crosshatch/crosshatch:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/crosshatch/crosshatch:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
-Google Pixel 3a (9 & 10 & 11 & 12):Google:Pixel 3a=google/sargo/sargo:9/PQ3B.190801.002/5674421:user/release-keys__2019-08-01;google/sargo/sargo:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05;google/sargo/sargo:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/sargo/sargo:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
+Google Pixel 3a (9 & 10 & 11 & 12):Google:Pixel 3a=google/sargo/sargo:9/PQ3B.190801.002/5674421:user/release-keys__2019-08-01;google/sargo/sargo:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05;google/sargo/sargo:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/sargo/sargo:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05;google/sargo/sargo:12/SP2A.220505.008/8782922:user/release-keys__2022-05-05
 Google Pixel 3a XL (9 & 10 & 11 & 12):Google:Pixel 3a XL=google/bonito/bonito:9/PQ3B.190801.002/5674421:user/release-keys__2019-08-01;google/bonito/bonito:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05;google/bonito/bonito:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/bonito/bonito:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
 Google Pixel 4 (10 & 11 & 12):Google:Pixel 4=google/flame/flame:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05;google/flame/flame:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/flame/flame:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
 Google Pixel 4 XL (10 & 11 & 12):Google:Pixel 4 XL=google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys__2020-08-05;google/coral/coral:11/RQ3A.211001.001/7641976:user/release-keys__2021-10-01;google/coral/coral:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
